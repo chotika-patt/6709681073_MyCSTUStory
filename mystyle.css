@@ -91,7 +91,7 @@ hr{
 }
     
 .wallpaper{
-    background-color: rgb(255, 223, 228);
+    background-image: url(resources/background.gif);
     background-repeat: no-repeat;
     position: absolute;
     width: 96%;
