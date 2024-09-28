@@ -93,6 +93,7 @@ hr{
 .wallpaper{
     background-image: url(resources/background.gif);
     background-repeat: no-repeat;
+    background-size: cover;
     position: absolute;
     width: 96%;
     height: auto;
